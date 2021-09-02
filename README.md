@@ -1,6 +1,7 @@
 # PortalExample-Japanese.github.io
 An example of web portal in japanese with a secured structure
-
+ID : id
+PWD : password
 
 
 
