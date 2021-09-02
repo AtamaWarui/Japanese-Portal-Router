@@ -1,0 +1,7 @@
+[2020/08/24 17:50]   VPN connection with the following SDN: c.testone1.test-gsuit.sjp satus checked ! 
+[2020/08/25 18:08]   networking service restarted 
+[2020/08/27 16:13]   VPN connection with the following SDN: c.testone1.test-gsuit.sjp satus checked ! 
+[2020/08/27 16:14]   VPN connection with the following SDN: c.testone1.test-gsuit.sjp satus checked ! 
+[2020/08/27 16:17]   VPN connection with the following SDN: c.testone1.test-gsuit.sjp satus checked ! 
+[2020/08/27 16:18]   VPN connection with the following SDN: c.testone1.test-gsuit.sjp satus checked ! 
+[2020/08/27 16:19]   VPN connection with the following SDN: c.testone1.test-gsuit.sjp satus checked ! 

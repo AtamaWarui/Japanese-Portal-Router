@@ -1,0 +1,106 @@
+       <style>
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-image {
+  /* Full height */
+  height: 100px; 
+  width: 200px;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  /* Center and scale the image nicely */
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ header
+ {
+
+    background-color: black;
+    height: 112px;
+    line-height: 112px;
+ }
+ 
+
+ ul
+ {
+    list-style: none; 
+ }
+
+ ul li
+ {
+    display:inline-block;
+ }
+ 
+ header nav
+ {
+    float: right;
+ }
+
+ .logo img
+ {
+    margin-top: 30px;
+
+ }
+ header nav ul li a
+ {
+    padding-right: 30px;
+    font-weight: bold;
+    color: white;
+    transition: all 0.5s ease-in;
+ }
+ 
+ header nav ul li a:hover
+ {
+    text-decoration: none;
+    color: blue;
+ }
+/* Images used */
+.img1 { background-image: url("BackgroundPortal.jpg");
+      }
+.slider,.slider ul,.slider ul li
+{
+    height:710px;
+    width:100%;
+    color:white;
+    text-align: center;
+
+}
+
+.container {
+background-color:#EEEECC;
+border: #CCCCAA thin solid;
+margin: 0 auto;
+padding: 5px;
+text-align: left;
+font-family: arial, sans-serif;
+font-size: 10pt;
+margin-bottom: 10px;
+}
+
+
+.btn {
+background-color: DodgerBlue;
+border: none;
+color: white;
+padding: 12px 30px;
+cursor: pointer;
+font-size: 20px;
+}
+
+.btn:hover {
+background-color: Black;
+}
+
+      </style>
+
+
+

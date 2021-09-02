@@ -1,0 +1,183 @@
+       <style>
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #E8E8E8;
+}
+
+* {
+  box-sizing: border-box;
+}
+.sidenav {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 5px 5px 5px 0.1px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  /*color: #f1f1f1;*/
+  color: #E8E8E8;
+}
+
+.main {
+  margin-left: 700px; /* Same as the width of the sidenav */
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.bg-image {
+  /* Full height */
+  height: 500px; 
+  width: 200px;
+  z-index: 1;
+  top: 0;
+  left: 1;
+  /* Center and scale the image nicely */
+  background-position: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ header
+ {
+    /*background-color: grey;*/
+    height: 112px;
+    width:  350px;
+    line-height: 100px;
+    min-height: 70 px;
+ }
+ 
+
+ ul
+ {
+    list-style: none; 
+ }
+
+ ul li
+ {
+    display:inline-block;
+ }
+ 
+ header nav
+ {
+    float: right;
+ }
+
+ .logo img
+ {
+    margin-top: 30px;
+
+ }
+ header nav ul li a
+ {
+    padding-right: 30px;
+    font-weight: bold;
+    color: black;
+    transition: all 0.5s ease-in;
+ }
+ 
+ header nav ul li a:hover
+ {
+    text-decoration: none;
+    color: blue;
+ }
+/* Images used */
+.img1 { background-image: url("BackgroundPortal.jpg");
+      }
+.slider,.slider ul,.slider ul li
+{
+    height:710px;
+    width:100%;
+    color:black;
+    text-align: center;
+
+}
+
+.container {
+background-color:#EEEECC;
+border: #CCCCAA thin solid;
+margin: 0 auto;
+padding: 5px;
+text-align: left;
+font-family: arial, sans-serif;
+font-size: 10pt;
+margin-bottom: 10px;
+}
+
+
+.btn {
+background-color: DodgerBlue;
+border: none;
+color: white;
+padding: 12px 30px;
+cursor: pointer;
+font-size: 20px;
+}
+
+.btn:hover {
+background-color: Black;
+}
+
+
+/*.row {
+
+  padding:20px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 100px;
+  line-height: 1em;
+
+}*/
+
+      </style>
+
+
+<div class="main" style="background-color:#E8E8E8;">
+
+  <header>
+
+          <div class="row" >
+               <a href="https://ip-dream.co.jp/"><img src="/images/New_logo_G-SUIT_IPD.png" alt="IP-Dream" width="500" height="150" align="left" style="float:left"></a>
+</div>
+
+<ul class="slider" id="slider-carousel">
+
+
+
+
+
+             <!--<p><div style="line-hehight:50px;"> <font size="+5" color="black">G-SUIT</p></font></div>-->
+            <nav>
+
+              <div style="color:black; /*height:400px; width:710px ;padding-bottom:10px; border:3px solid black;*/">
+
+
+
+
+<div class="sidenav">
+  <a href="entry.php?page=page3">ホーム</a>
+  <a href="entry.php?page=page2&action=click">ゲートウェイ設定</a>
+  <a href="entry.php?page=page1&action=click">ピアリング設定</a>
+  <a href="entry.php?page=page5&action=click">IPアドレス設定</a>
+  <a href="entry.php?page=page4&action=click">ヘルプ</a>
+</div>
+
+           </nav>
+                                      

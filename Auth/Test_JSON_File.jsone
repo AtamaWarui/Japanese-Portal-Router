@@ -1,0 +1,56 @@
+"accounts":[{
+	"m":	"DEVICESREPLY",
+	"ver":	"2.0",
+	"error":	"",
+	"name":	"test51.gtw-activation-test2.sjp",
+	"firstName":	"Mounia",
+	"lastName":	"Mounia",
+	"email":	"mounia@ip-dream.co.jp",
+	"location":	"",
+	"iconUrl":	"icons/peer/test51.gtw-activation-test2.sjp.jpg",
+	"defaultServer":	"s",
+	"localDevice":	{
+		"name":	"s",
+		"lastConnect":	"09/02/2021 - 19:28:34",
+		"isHidden":	false,
+		"tcpOnly":	false,
+		"beacon":	false,
+		"inCall":	false,
+		"isServer":	false,
+		"deviceType":	"computer",
+		"presence":	"ACTIVE",
+		"vpnFlg":	false,
+		"services":	[{
+				"id":	"1",
+				"name":	"SecureChat",
+				"allowed":	"ALL"
+			}, {
+				"id":	"11",
+				"name":	"SecureGateway",
+				"allowed":	"ALL"
+			}, {
+				"id":	"9",
+				"name":	"SecureMail",
+				"allowed":	"ALL"
+			}, {
+				"id":	"4",
+				"name":	"SecureShare",
+				"allowed":	"ALL"
+			}, {
+				"id":	"10",
+				"name":	"SecureSync",
+				"allowed":	"ALL"
+			}, {
+				"id":	"7",
+				"name":	"SecureVideo",
+				"allowed":	"DENY"
+			}, {
+				"id":	"8",
+				"name":	"SecureVoice",
+				"allowed":	"DENY"
+			}]
+	},
+	"devices":	[],
+	"servers":	[],
+	"hash":	1653531313
+}]
