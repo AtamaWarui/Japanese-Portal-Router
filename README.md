@@ -1,6 +1,8 @@
 # PortalExample-Japanese.github.io
-An example of web portal in japanese with a secured structure <br />
-
+An example of portal router in Japanese with a secured structure <br />
+After following the exact instructions on Debian OS "Raspberry pi"
+You can access it to the portal two ways - by physically connecting to the Portal using an Ethernet cable or over WiFi.
+Once you are connected to the Portal please type either the suggested IP address or it's domain name in your favorite web browser (Chrome, Safari, FireFox, Internet Explorer, etc.).
 
 
 ID : id <br />
