@@ -1,4 +1,4 @@
-# PortalExample-Japanese.github.io
+# PortalRouter-Japanese.github.io
 An example of portal router in Japanese with a secured structure <br />
 After following the exact instructions on Debian OS "Raspberry pi"
 You can access it to the portal two ways - by physically connecting to the Portal using an Ethernet cable or over WiFi.
